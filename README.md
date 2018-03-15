@@ -7,19 +7,11 @@ Combine [Peter's Overlord
 List]('http://www.eviloverlord.com/lists/overlord.html') with ASCII art of
 Darth Vader and cowsay.
 
-That's something you'd like to see, you cry?  Well, the output is something
-like this:
+That's something you'd like to see, you cry?  Well, I've made it easy for you
+to do this for yourself!
 
- ________________________________________
-/ Evil Overlord Rule #94                 \
-|                                        |
-| When arresting prisoners, my guards    |
-| will not allow them to stop and grab a |
-| useless trinket of purely sentimental  |
-\ value.                                 /
- ----------------------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\
+## Setup
+
+You'll need to be on Mac OS or Un/Linux.
 
 
